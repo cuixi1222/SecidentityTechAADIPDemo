@@ -1,2 +1,2 @@
-AdamS@secidentitytech.com
-Password01!
+Username: AADIPtest1@secidentitytech.onmicrosoft.com
+password: Kona2956
