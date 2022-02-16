@@ -1,0 +1,5 @@
+AADIPTest02
+
+"AadClientId": "[b308a1ea-5368-4f36-b9ca-0a92003c94f3]","AadSecret": "[NC67Q~IJtFdvpzS5Gj4t.DBqYxuMPhSemrRUD]", "AadTenantDomain": "nedscaperlab.onmicrosoft.com","AadTenantId": "[316bec54-8d14-4882-8af3-ee5e61570603]",
+
+"AadClientId": "b308a1ea-5368-4f36-b9ca-0a92003c94f3","AadSecret": "NC67Q~IJtFdvpzS5Gj4t.DBqYxuMPhSemrRUD", "AadTenantDomain": "nedscaperlab.onmicrosoft.com","AadTenantId": "316bec54-8d14-4882-8af3-ee5e61570603",
